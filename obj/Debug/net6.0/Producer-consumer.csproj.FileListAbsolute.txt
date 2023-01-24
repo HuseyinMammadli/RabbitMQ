@@ -1,0 +1,17 @@
+C:\Users\huseyin.mammadli\source\repos\Producer-consumer\bin\Debug\net6.0\Producer-consumer.exe
+C:\Users\huseyin.mammadli\source\repos\Producer-consumer\bin\Debug\net6.0\Producer-consumer.deps.json
+C:\Users\huseyin.mammadli\source\repos\Producer-consumer\bin\Debug\net6.0\Producer-consumer.runtimeconfig.json
+C:\Users\huseyin.mammadli\source\repos\Producer-consumer\bin\Debug\net6.0\Producer-consumer.dll
+C:\Users\huseyin.mammadli\source\repos\Producer-consumer\bin\Debug\net6.0\Producer-consumer.pdb
+C:\Users\huseyin.mammadli\source\repos\Producer-consumer\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\huseyin.mammadli\source\repos\Producer-consumer\obj\Debug\net6.0\Producer-consumer.csproj.AssemblyReference.cache
+C:\Users\huseyin.mammadli\source\repos\Producer-consumer\obj\Debug\net6.0\Producer-consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huseyin.mammadli\source\repos\Producer-consumer\obj\Debug\net6.0\Producer-consumer.AssemblyInfoInputs.cache
+C:\Users\huseyin.mammadli\source\repos\Producer-consumer\obj\Debug\net6.0\Producer-consumer.AssemblyInfo.cs
+C:\Users\huseyin.mammadli\source\repos\Producer-consumer\obj\Debug\net6.0\Producer-consumer.csproj.CoreCompileInputs.cache
+C:\Users\huseyin.mammadli\source\repos\Producer-consumer\obj\Debug\net6.0\Producer-consumer.csproj.CopyComplete
+C:\Users\huseyin.mammadli\source\repos\Producer-consumer\obj\Debug\net6.0\Producer-consumer.dll
+C:\Users\huseyin.mammadli\source\repos\Producer-consumer\obj\Debug\net6.0\refint\Producer-consumer.dll
+C:\Users\huseyin.mammadli\source\repos\Producer-consumer\obj\Debug\net6.0\Producer-consumer.pdb
+C:\Users\huseyin.mammadli\source\repos\Producer-consumer\obj\Debug\net6.0\Producer-consumer.genruntimeconfig.cache
+C:\Users\huseyin.mammadli\source\repos\Producer-consumer\obj\Debug\net6.0\ref\Producer-consumer.dll
